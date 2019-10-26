@@ -13,3 +13,15 @@ def fibonacciSequence(until):
 
 userInteger = int(input("Please input a number it will add the Fibonacci Sequence until this value:"))
 print(fibonacciSequence(userInteger))
+
+
+def changeTheY():
+    y = 9
+    print("Y is ", y)
+
+y = 17
+
+print("Y is...", y)
+changeTheY()
+
+print("Y is...", y)
